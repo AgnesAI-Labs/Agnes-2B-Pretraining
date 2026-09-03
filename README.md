@@ -6,6 +6,7 @@ This repository publishes the Agnes 2B pretraining technical paper. It specifies
 
 ## Paper
 
+- [Read the full paper on GitHub](./REPORT.md)
 - [Download the technical paper](./Agnes_2B_Pretraining_Technical_Paper.pdf)
 
 ## Protocol Highlights
